@@ -2,7 +2,7 @@
 react-lesson。 gitee page: http://citos.gitee.io/react-lesson/ 
 
 ![capture](https://user-images.githubusercontent.com/79709400/113584649-bc49a500-965d-11eb-852a-82dfbe3d3dcd.PNG)
-![capture3](https://user-images.githubusercontent.com/79709400/113584672-c075c280-965d-11eb-9912-54751ba9840d.PNG)
+![capture1](https://user-images.githubusercontent.com/79709400/113864048-04430600-97dd-11eb-8fd4-db72965c26c0.PNG)
 ![captuer](https://user-images.githubusercontent.com/79709400/113863771-a6162300-97dc-11eb-92cd-bf05b4871a52.PNG)
 
 #### 从脚手架工程做起
