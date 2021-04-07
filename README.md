@@ -2,8 +2,8 @@
 react-lesson。 gitee page: http://citos.gitee.io/react-lesson/ 
 
 ![capture](https://user-images.githubusercontent.com/79709400/113584649-bc49a500-965d-11eb-852a-82dfbe3d3dcd.PNG)
-![captuer](https://user-images.githubusercontent.com/79709400/113863771-a6162300-97dc-11eb-92cd-bf05b4871a52.PNG)
 ![capture3](https://user-images.githubusercontent.com/79709400/113584672-c075c280-965d-11eb-9912-54751ba9840d.PNG)
+![captuer](https://user-images.githubusercontent.com/79709400/113863771-a6162300-97dc-11eb-92cd-bf05b4871a52.PNG)
 
 #### 从脚手架工程做起
 npm install -g create-react-app
